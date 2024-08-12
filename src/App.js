@@ -1,4 +1,5 @@
 import react from 'react'
+import {Header,Content,Footer,} from './func-component';
 
 
 
