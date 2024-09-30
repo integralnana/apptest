@@ -1,5 +1,5 @@
-import Router3 from "./router3";
+import FormText from "./form_text";
 
 export default function App() {
-  return <Router3 />;
+  return <FormText />;
 }
